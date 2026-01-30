@@ -1,10 +1,8 @@
 <p align="center">
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXp1ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudGlmaWVyJmN0PXM/26vUu9G1S3pXvD2ve/giphy.gif" width="40">
+  <img src=".github/assets/Captura.PNG" alt="Alvaro Victor Zamora Banner" width="100%">
 </p>
 
 # Hi, Welcome to my Repository! 👋
-
-<p align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/working.gif" width="50"></p>
 
 ### 🚀 Developer | .NET & Software Architecture Enthusiast
 
@@ -23,19 +21,6 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 ### 🛠️ Tech Stack & Skills
 ---
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXp1ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudGlmaWVyJmN0PXM/Jsh76ebLpxSiaGZRYN/giphy.gif" width="100" align="right">
-</p>
-
-> *"Never stop exploring, never stop coding."* 🚀
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaySaaS/MaySaaS/master/chat.gif" width="100%">
-</p>
-
-
-### 🛠️ My Tech Stack
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
