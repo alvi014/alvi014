@@ -4,12 +4,14 @@
 
 # Hi, Welcome to my Repository! 👋
 
+<p align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/working.gif" width="50"></p>
+
 ### 🚀 Developer | .NET & Software Architecture Enthusiast
 
 I am a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
 
 ---
-<p align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/working.gif" width="50"></p>
+
 ### 🌟 About Me  
 - ☕ **Coffee Driven:** I believe everything is better with a strong, well-filtered coffee.
 - 🏋️‍♂️ **Sport Addict:** I push my limits with **CrossFit**, **Soccer**, **Swimming**, and **Running**.
@@ -21,8 +23,6 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 ### 🛠️ Tech Stack & Skills
 ---
-
-### 🛠️ My Tech Stack
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXp1ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudGlmaWVyJmN0PXM/Jsh76ebLpxSiaGZRYN/giphy.gif" width="100" align="right">
 </p>
@@ -32,6 +32,10 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaySaaS/MaySaaS/master/chat.gif" width="100%">
 </p>
+
+
+### 🛠️ My Tech Stack
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
