@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Alvaro Victor Zamora Banner" width="100%">
+</p>
+
+
 # Hi, I'm Alvaro Victor Zamora! 👋
 
 ### 🚀 Backend Developer | .NET & Software Architecture Enthusiast
