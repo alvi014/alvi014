@@ -9,7 +9,9 @@
 I am a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
 
 ---
-
+<p align="right">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/working.gif" width="80">
+</p>
 ### 🌟 About Me  
 - ☕ **Coffee Driven:** I believe everything is better with a strong, well-filtered coffee.
 - 🏋️‍♂️ **Sport Addict:** I push my limits with **CrossFit**, **Soccer**, **Swimming**, and **Running**.
