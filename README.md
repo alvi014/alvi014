@@ -1,9 +1,14 @@
 <p align="center">
-  <img src=".github/assets/captura.png" alt="Alvaro Victor Zamora Banner" width="100%">
+  <img src=".github/assets/Captura.png" alt="Alvaro Victor Zamora Banner" width="100%">
 </p>
 
 # Hi, I'm Alvaro Victor Zamora! 👋
-
+### 🛠️ Main Technologies
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ### 🚀 Backend Developer | .NET & Software Architecture Enthusiast
 
 I am a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
@@ -14,7 +19,7 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 - ☕ **Coffee Driven:** I believe everything is better with a strong, well-filtered coffee.
 - 🏋️‍♂️ **Sport Addict:** I push my limits with **CrossFit**, **Soccer**, **Swimming**, and **Running**.
 - 👨‍👩‍👧 **Family Oriented:** My main motivation to keep growing every day.
-- 🎮 **Gamer at Heart:** Big fan of Super Mario Bros and retro aesthetics.
+- 🎮 **Gamer at Heart:** Big fan of video games and retro aesthetics.
 - 🛠️ **Future Focus:** Currently working on expanding my portfolio and exploring.
 
 ---
@@ -23,7 +28,7 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 He aprendido y sigo reforzando constantemente este conjunto de herramientas para entregar software de alta calidad:
 
-- **Languages:** C#, SQL, JavaScript, TypeScript, PHP, Python (Learning Automation).
+- **Languages:** C#, SQL, JavaScript, TypeScript, PHP, Python.
 - **Backend & Frameworks:** .NET 8, Node.js (Express), Laravel, Entity Framework Core.
 - **Frontend:** Angular, HTML5, CSS.
 - **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), MVC, Unit of Work, Design Patterns.
@@ -42,9 +47,9 @@ He aprendido y sigo reforzando constantemente este conjunto de herramientas para
 ---
 
 ### 📈 GitHub Statistics
+### 📈 GitHub Activity
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvi014&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi014&layout=compact&langs_count=7&theme=tokyonight" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
