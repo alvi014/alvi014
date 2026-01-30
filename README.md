@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/Captura.PNG" alt="Alvaro Victor Zamora Banner" width="100%">
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXp1ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54ZzRyeG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudGlmaWVyJmN0PXM/26vUu9G1S3pXvD2ve/giphy.gif" width="40">
 </p>
 
 # Hi, Welcome to my Repository! 👋
