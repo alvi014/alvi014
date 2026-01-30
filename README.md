@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/Captura.png" alt="Alvaro Victor Zamora Banner" width="100%">
+  <img src=".github/assets/Captura.PNG" alt="Alvaro Victor Zamora Banner" width="100%">
 </p>
 
 # Hi, I'm Alvaro Victor Zamora! 👋
@@ -46,7 +46,7 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 ### 📈 GitHub Activity
 <p align="left">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=dracula&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=react&area=true&hide_border=true" />
 </p>
 
 ---
