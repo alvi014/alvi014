@@ -2,9 +2,9 @@
   <img src=".github/assets/Captura.PNG" alt="Alvaro Victor Zamora Banner" width="100%">
 </p>
 
-# Hi, I'm Alvaro Victor Zamora! 👋
+# Hi, Welcome to my Repository! 👋
 
-### 🚀 Backend Developer | .NET & Software Architecture Enthusiast
+### 🚀 Developer | .NET & Software Architecture Enthusiast
 
 I am a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
 
@@ -44,12 +44,14 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 ---
 
+
 ### 📈 GitHub Activity
 <p align="left">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=react&area=true&hide_border=true" />
 </p>
 
 ---
+
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-víctor-zamora-385965210)
