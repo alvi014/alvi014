@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Alvaro Victor Zamora Banner" width="100%">
+  <img src=".github/assets/captura.png" alt="Alvaro Victor Zamora Banner" width="100%">
 </p>
-
 
 # Hi, I'm Alvaro Victor Zamora! 👋
 
@@ -11,19 +10,34 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 ---
 
-### 🛠️ Tech Stack
+### 🌟 About Me
+- ☕ **Coffee Driven:** I believe everything is better with a strong, well-filtered coffee.
+- 🏋️‍♂️ **Sport Addict:** I push my limits with **CrossFit**, **Soccer**, **Swimming**, and **Running**.
+- 👨‍👩‍👧 **Family Oriented:** My main motivation to keep growing every day.
+- 🎮 **Gamer at Heart:** Big fan of Super Mario Bros and retro aesthetics.
+- 🛠️ **Future Focus:** Currently working on expanding my portfolio and exploring.
 
-- **Languages:** C#, SQL, JavaScript.
-- **Frameworks & Libs:** .NET 8, Entity Framework Core, MediatR, FluentValidation.
-- **Tools & DevOps:** SQL Server, Git, Docker, JWT, Swagger.
-- **Architecture:** Clean Architecture, Domain-Driven Design (DDD).
+---
+
+### 🛠️ Tech Stack & Skills
+
+He aprendido y sigo reforzando constantemente este conjunto de herramientas para entregar software de alta calidad:
+
+- **Languages:** C#, SQL, JavaScript, TypeScript, PHP, Python (Learning Automation).
+- **Backend & Frameworks:** .NET 8, Node.js (Express), Laravel, Entity Framework Core.
+- **Frontend:** Angular, HTML5, CSS.
+- **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), MVC, Unit of Work, Design Patterns.
+- **Databases:** SQL Server, PostgreSQL, MongoDB, phpMyAdmin.
+- **Tools & DevOps:** Docker, JWT, Swagger, Git, AzureDevOps, Render, Netlify.
 
 ---
 
 ### ☕ Featured Project: [CoffeeLocator](https://github.com/alvi014/CoffeeLocator)
 *A robust RESTful API for coffee enthusiasts to discover and rate local shops.*
-- Built with **.NET 8** and **Clean Architecture**.
+- Building with **.NET 8** and **Clean Architecture**.
 - Features **JWT Authentication** and **Geographic Proximity Search**.
+
+👉 **[Take a look at all my projects here!](https://github.com/alvi014?tab=repositories)**
 
 ---
 
