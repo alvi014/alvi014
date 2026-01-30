@@ -3,12 +3,7 @@
 </p>
 
 # Hi, I'm Alvaro Victor Zamora! 👋
-### 🛠️ Main Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ### 🚀 Backend Developer | .NET & Software Architecture Enthusiast
 
 I am a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
@@ -25,8 +20,11 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 ---
 
 ### 🛠️ Tech Stack & Skills
-
-He aprendido y sigo reforzando constantemente este conjunto de herramientas para entregar software de alta calidad:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 - **Languages:** C#, SQL, JavaScript, TypeScript, PHP, Python.
 - **Backend & Frameworks:** .NET 8, Node.js (Express), Laravel, Entity Framework Core.
@@ -46,10 +44,9 @@ He aprendido y sigo reforzando constantemente este conjunto de herramientas para
 
 ---
 
-### 📈 GitHub Statistics
 ### 📈 GitHub Activity
 <p align="left">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=tokyonight&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=dracula&area=true&hide_border=true" />
 </p>
 
 ---
