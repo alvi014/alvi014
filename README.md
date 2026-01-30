@@ -20,7 +20,6 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 ---
 
 ### 🛠️ Tech Stack & Skills
----
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -44,7 +43,6 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 👉 **[Take a look at all my projects here!](https://github.com/alvi014?tab=repositories)**
 
 ---
-
 
 ### 📈 GitHub Activity
 <p align="left">
