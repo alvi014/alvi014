@@ -10,7 +10,7 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 
 ---
 
-### 🌟 About Me
+### 🌟 About Me    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/working.gif" width="50">
 - ☕ **Coffee Driven:** I believe everything is better with a strong, well-filtered coffee.
 - 🏋️‍♂️ **Sport Addict:** I push my limits with **CrossFit**, **Soccer**, **Swimming**, and **Running**.
 - 👨‍👩‍👧 **Family Oriented:** My main motivation to keep growing every day.
