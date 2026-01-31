@@ -27,7 +27,7 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 | Category | Technologies |
-|--------|--------------|
+|---------|--------------|
 | 🧠 Languages | C#, SQL, JavaScript, TypeScript, PHP, Python |
 | ⚙️ Backend & Frameworks | .NET 8 (ASP.NET Core), Node.js (Express), Laravel |
 | 🗄️ ORM & Data Access | Entity Framework Core |
