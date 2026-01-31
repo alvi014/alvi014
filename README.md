@@ -40,21 +40,31 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 ---
 
 ### ☕ Featured Project: [CoffeeLocator](https://github.com/alvi014/CoffeeLocator)
-*A robust RESTful API for coffee enthusiasts to discover and rate local shops.*
-- Building with **.NET 8** and **Clean Architecture**.
-- Features **JWT Authentication** and **Geographic Proximity Search**.
+*A RESTful API in active development, focused on clean architecture and scalable backend design.*
 
-👉 **[Take a look at all my projects here!](https://github.com/alvi014?tab=repositories)**
+🚧 **Status:** Work in Progress  
+
+**Tech highlights:**
+- Built with **.NET 8** and **Clean Architecture**
+- **JWT Authentication** for secure access
+- **Geographic Proximity Search** (location-based coffee shops)
+- Designed with **Domain-Driven Design (DDD)** principles in mind
+- API-first approach, documented with **Swagger**
+
+📌 *The project is currently under active development, with features and architecture evolving incrementally.*
+
+👉 **[Explore all my repositories](https://github.com/alvi014?tab=repositories)**
 
 ---
 
 ### 📈 GitHub Activity
+*Consistent activity focused on backend development, architecture practices, and continuous learning.*
+
 <p align="left">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=react&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvi014&theme=react&area=true&hide_border=true" />
 </p>
 
 ---
-
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-víctor-zamora-385965210)
