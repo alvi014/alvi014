@@ -26,13 +26,50 @@ I am a passionate Software Developer focused on building high-performance RESTfu
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- **Languages:** C#, SQL, JavaScript, TypeScript, PHP, Python.
-- **Backend & Frameworks:** .NET 8, Node.js (Express), Laravel, Entity Framework Core.
-- **Frontend:** Angular, HTML5, CSS.
-- **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), MVC, Unit of Work, Design Patterns.
-- **Databases:** SQL Server, PostgreSQL, MongoDB, phpMyAdmin.
-- **Tools & DevOps:** Docker, JWT, Swagger, Git, AzureDevOps, Render, Netlify.
+## 🧠 Languages
+- C#
+- SQL
+- JavaScript
+- TypeScript
+- PHP
+- Python
 
+## ⚙️ Backend & Frameworks
+- .NET 8 (ASP.NET Core)
+- Node.js (Express)
+- Laravel
+
+## 🗄️ ORM & Data Access
+- Entity Framework Core
+
+## 🎨 Frontend
+- Angular
+- HTML5
+- CSS3
+
+## 🧩 Architecture & Patterns
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- MVC
+- Unit of Work
+- Design Patterns
+
+## 🗃️ Databases
+- SQL Server
+- PostgreSQL
+- MongoDB
+
+## 🛠️ Tools & DevOps
+- Docker
+- Git
+- Swagger
+- Azure DevOps
+- Render
+- Netlify
+- phpMyAdmin
+
+## 🔐 Security & Auth
+- JWT
 ---
 
 ### ☕ Featured Project: [CoffeeLocator](https://github.com/alvi014/CoffeeLocator)
