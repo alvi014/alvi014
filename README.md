@@ -6,7 +6,7 @@
 
 ### 🚀 Developer | .NET & Software Architecture Enthusiast
 
-I am a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
+I'm a passionate Software Developer focused on building high-performance RESTful APIs and scalable distributed systems. My goal is to write clean, maintainable code while solving real-world problems through technology.
 
 ---
 
