@@ -127,6 +127,7 @@ const alvaro: Developer = {
 
 [![CoffeeLocator](https://img.shields.io/badge/🔗_View_Project-CoffeeLocator-00FF64?style=for-the-badge)](https://github.com/alvi014/CoffeeLocator)
 [![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)]()
+[![All Repos](https://img.shields.io/badge/_All_Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvi014?tab=repositories)
 
 </div>
 
