@@ -110,13 +110,16 @@ const alvaro: Developer = {
 
 > *Find the perfect coffee shop near you — built API-first with scalability in mind.*
 
+
 ```
 📁 CoffeeLocator/
 ├── 🏗️  Architecture  →  Clean Architecture + DDD
 ├── 🔧  Backend       →  .NET 8 + ASP.NET Core
 ├── 🔐  Auth          →  JWT Authentication
-├── 📍  Feature       →  Geographic Proximity Search
+├── 📍  Feature        →  Geographic Proximity Search
 ├── 📖  Docs          →  Swagger / OpenAPI
+├── 🎨  Frontend      →  Angular 
+├── 🐳  Container     →  Docker
 └── 🚧  Status        →  Active Development
 ```
 
@@ -133,12 +136,12 @@ const alvaro: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvi014&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff64&icon_color=00ff64&text_color=ffffff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvi014&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff64&ring=00ff64&fire=ff6b35&currStreakLabel=00ff64" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=alvi014&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff64&icon_color=00ff64&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=alvi014&theme=dark&hide_border=true&background=0d1117&stroke=00ff64&ring=00ff64&fire=ff6b35&currStreakLabel=00ff64&sideLabels=ffffff&dates=888888" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi014&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff64&text_color=ffffff" />
+<img width="42%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alvi014&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff64&text_color=ffffff&langs_count=8" />
 
 </div>
 
