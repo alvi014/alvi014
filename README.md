@@ -101,7 +101,7 @@ const alvaro: Developer = {
 ---
 
 ## `> ls projects/`
-
+ [![All Repos](https://img.shields.io/badge/_All_Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvi014?tab=repositories)
 <div align="center">
 
 ### ☕ CoffeeLocator
@@ -127,7 +127,35 @@ const alvaro: Developer = {
 
 [![CoffeeLocator](https://img.shields.io/badge/🔗_View_Project-CoffeeLocator-00FF64?style=for-the-badge)](https://github.com/alvi014/CoffeeLocator)
 [![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)]()
-[![All Repos](https://img.shields.io/badge/_All_Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvi014?tab=repositories)
+
+
+</div>
+
+---
+<div align="center">
+
+### 🚗 TicoAutos
+
+</div>
+
+> *Professional car sales marketplace — engineered with Clean Architecture and enterprise patterns.*
+```
+📁 TicoAutos/
+├── 🏗️  Architecture  →  Clean Architecture (Onion)
+├── 🔧  Backend       →  .NET 8/9 + ASP.NET Core
+├── 🔐  Auth          →  JWT + Identity Management
+├── 📦  Patterns      →  Unit of Work & Repository
+├── 📡  Interaction   →  Real-time Q&A System
+├── 🎨  Frontend      →  Angular (Standalone)
+├── 🐳  DevOps        →  Docker + GitFlow
+└── 🚧  Status        →  Active Development (Sprint 1)
+```
+
+<div align="center">
+
+[![TicoAutos](https://img.shields.io/badge/🔗_View_Project-TicoAutos-0078D4?style=for-the-badge)](https://github.com/alvi014/TicoAutos)
+[![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)]()
+
 
 </div>
 
