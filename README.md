@@ -92,7 +92,7 @@ const alvaro: Developer = {
 
 ### 🔐 Security & Patterns
 
-![JWT](https://img.shields.io/badge/JWT-FFB400?style=for-the-badge&logo=jsonwebtokens&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=FFB400)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00FF64?style=for-the-badge&logoColor=black)
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-6366F1?style=for-the-badge&logoColor=white)
 
