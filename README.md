@@ -14,7 +14,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alvi014&color=00ff64&style=for-the-badge&label=VISITORS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-víctor-zamora-385965210)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarovictor06@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50687221109)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvi014)
 
 </div>
@@ -211,7 +210,6 @@ const alvaro: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-víctor-zamora-385965210)
 [![Email](https://img.shields.io/badge/Send_Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarovictor06@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50687221109)
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvi014)
 
 <br/>
